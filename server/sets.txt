@@ -1,0 +1,3 @@
+npm i express dotenv apollo-server-express
+npm i drizzle-orm pg
+npm i -D nodemon drizzle-kit
